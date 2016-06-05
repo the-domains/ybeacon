@@ -1,7 +1,7 @@
 name: ybeacon
 favicon: null
-layout_spectrum: 0.18229129677638412
-typography_spectrum: 0.7121328597422689
+layout_spectrum: 0.0384
+typography_spectrum: 0.60434
 cta:
   domain: null
   bucket: null
