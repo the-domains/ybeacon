@@ -1,0 +1,28 @@
+name: ybeacon
+favicon: null
+layout_spectrum: 0.18229129677638412
+typography_spectrum: 0.7121328597422689
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fbfbfb'
+    - '#666666'
+    - '#ffb141'
+    - '#00a89c'
+    - '#010000'
+  brandStrength: 0.7123169705737382
+  lightness: 0.1594700173009187
+  saturation: 0.43294344493187964
+  rhythmicContrast: 0.9092048110906035
+purpose: []
