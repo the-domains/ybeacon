@@ -1,8 +1,7 @@
 name: ybeacon
 favicon: null
-layout_spectrum: 0.0384
-typography_spectrum: 0.60434
-title: Real Word Analytics - Bridging The Divide
+layout_spectrum: 0.18229129677638412
+typography_spectrum: 0.7121328597422689
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fbfbfb'
-    - '#666666'
-    - '#ffb141'
-    - '#00a89c'
-    - '#010000'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
   brandStrength: 0.7123169705737382
   lightness: 0.1594700173009187
   saturation: 0.43294344493187964
