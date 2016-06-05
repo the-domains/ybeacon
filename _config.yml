@@ -2,6 +2,7 @@ name: ybeacon
 favicon: null
 layout_spectrum: 0.0384
 typography_spectrum: 0.60434
+title: Real Word Analytics - Bridging The Divide
 cta:
   domain: null
   bucket: null
